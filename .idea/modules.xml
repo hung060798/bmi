@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../b6.1/.idea/b6.1.iml" filepath="$PROJECT_DIR$/../../b6.1/.idea/b6.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../ba7/b7.4/.idea/b7.4.iml" filepath="$PROJECT_DIR$/../../ba7/b7.4/.idea/b7.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../bai6/.idea/bai6.iml" filepath="$PROJECT_DIR$/../../bai6/.idea/bai6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/btKg.iml" filepath="$PROJECT_DIR$/.idea/btKg.iml" />
+    </modules>
+  </component>
+</project>
